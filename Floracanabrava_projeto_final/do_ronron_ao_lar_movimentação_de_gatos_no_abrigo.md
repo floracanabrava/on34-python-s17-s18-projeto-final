@@ -26,5 +26,5 @@ Este repositório foi produzido por Flora Canabrava para o projeto final do *boo
 
 ## 🔗 Links dos trabalhos
 - [Notebook](https://colab.research.google.com/drive/1XO4p_bgyNZlfsnRysnPE8rLmUW52CYxT#scrollTo=PxPNIhrCkeJ4)
-- [Tableau](https://public.tableau.com/app/profile/flora.canabrava/viz/Flora_Canabrava_Reprograma_Projeto_Final/Sazonalidadederetornodegatinhos)
+- [Tableau](https://public.tableau.com/app/profile/flora.canabrava/viz/Doronronaolar_ProjetoFinaldeFloraCanabrava_ReprogramaOn34/Top6Animaisdoabrigo#2)
 - [Apresentação](https://www.canva.com/design/DAGS564NF6I/kZYLuZ2xUZHitBcmx-PISA/view?utm_content=DAGS564NF6I&utm_campaign=designshare&utm_medium=link&utm_source=editor)
